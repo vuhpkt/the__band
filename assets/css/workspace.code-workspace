@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Test Javascript"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\Try"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "w3_band"
+	}
+}
